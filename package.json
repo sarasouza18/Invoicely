@@ -1,0 +1,22 @@
+{
+  "name": "invoicely",
+  "version": "1.0.0",
+  "description": "Invoicely - Sistema de Leitura e Processamento de Notas Fiscais (Node.js) Descrição do Projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
