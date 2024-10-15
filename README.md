@@ -147,25 +147,7 @@ aws lambda create-function \
 
 ---
 
-## 📝 **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### 💡 **Contributing**
-We welcome contributions to improve this project. Please fork the repository and create a pull request.
-
----
-
 ### 🎯 **Future Enhancements**
 - 🔍 **Advanced Error Handling**: Integration with **AWS CloudWatch Alarms** to monitor processing failures in real-time.
 - 🚀 **Performance Improvements**: Adding caching layers using **Redis** for faster access to previously processed invoices.
 - 📊 **Data Analytics**: Build a dashboard for viewing the status and history of processed invoices using **Amazon QuickSight**.
-
----
-
-If you have any questions or need help, feel free to open an issue or contact the maintainers! 👋
-
----
-
-Enjoy using **Invoicely**! 😄
